@@ -21,8 +21,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/onlykape/Bot-Md#requirements">Requirements</a> •
-  <a href="https://github.com/onlykape/Bot-Md#instalasi">Installation</a> •
+  <a href="https://github.com/onlykape/Bot#information">Info</a> •
+  <a href="https://github.com/onlykape/Bot#instalasi">Installation</a> •
   <a href="https://github.com/onlykape/Bot-Md#thanks-to">Thanks to</a> •
 </p>
 </div>
