@@ -4,11 +4,11 @@
 
 </p>
 <p align="center">
-<a href="#"><img title="ALPHABOT MULTI DEVICE" src="https://img.shields.io/badge/ALPHABOT MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="CILUK-BOT MULTI DEVICE" src="https://img.shields.io/badge/ALPHABOT MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/DikaArdnt"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/zeeone-ofc/Alphabot-Md"><img title="Recode" src="https://img.shields.io/badge/Recode-ZeeoneOfc-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/onlykape"><img title="Recode" src="https://img.shields.io/badge/Recode-ZeeoneOfc-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/zeeone-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeone-ofc?color=red&style=flat-square"></a>
@@ -67,7 +67,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```ts
 apt update && apt upgrade
 pkg install bash
-git clone https://github.com/zeeone-ofc/Alphabot-Md.git
+git clone https://github.com/onlykape/Bot.git
 cd Alphabot-Md
 bash install.sh
 ```
@@ -81,21 +81,24 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "Alphabot-Mdོ"
-global.ownername= "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×"
-global.myweb ="https://api-alphabot.herokuapp.com/"
-global.youtube = "https://youtube.com/c/ZeeoneOfc"
-global.github = "https://zeeone-ofc.github.io/"
-global.email = "zeeoneofc@gmail.com"
-global.region = "Indonesia"
-global.ownernomer = "62887435047326"
-global.ownernomerr = "+62887435047326"
-global.thumbnail = "./image/lol.jpg"
-global.donasi = "./image/donasi.jpg"
+global.botname = "Ciluk ب Bot ོ" //namabot kalian
+global.ownername= "Ciluk ب" //nama kalian
+global.myweb ="https://discord.gg/KjGKaMkc" //bebas asal jan hapus
+global.youtube = "https://discord.gg/2M2f6eVy" //bebas asal jan hapus
+global.myweb2 = "https://discord.gg/" //bebas
+global.email = "https://nekopoi.care" //bebas
+global.region = "Indonesia" //bebas
+global.timezone = 'Asia/Jakarta' //  timezone wib
+global.premium = ['6289688329976'] //premium user
+global.owner = ["6281233554132","6289688329976"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6281233554132" // nomor wa kalian
+global.ownernomerr = "+6289688329976" //nmr wa kalian
+global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
+global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["62887435047326","62887435047326","6285342106390"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© Alphabot-Mdོ' //sticker wm
-global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm
+global.thumbGif = 'https://s.id/1fRqr'
+global.packname = '© Ciluk ب' //sticker wm ubah
+global.author = 'Di Buat Oleh Bot KP' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 ```
 
@@ -108,19 +111,6 @@ global.sessionName = 'session'
 <p align="center">
   <a href="https://youtu.be/SdKHkld2NcI"><img src="https://a.top4top.io/p_2081imvxm1.jpg" />
 </p>
-
-## Donate
-- [Saweria](https://saweria.co/zeeoneofc)
-- [Dana](https://j.top4top.io/p_20532posd1.jpg)
-- [Ovo](https://h.top4top.io/p_2053vk0uw1.jpg)
-- [Gopay](https://i.top4top.io/p_2053em3vh1.jpg)
-
-# Official Group
-- [Group 1](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
-- [Group 2](https://chat.whatsapp.com/E8NExJwIbhBJYzssfqJNsE)
-- [Group 3](https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy)
-- [Group 4](https://chat.whatsapp.com/KwmvHr7VMFj7r5ry9xmMsU)
-- [Group 5](https://chat.whatsapp.com/ELa7GhU0sP4EvXcVimQYtz)
 
 # Thanks to
 <a href="https://github.com/DikaArdnt"><img src="https://github.com/DikaArdnt.png?size=100" width="100" height="100"></a> | [![NURUTOMO](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) 
