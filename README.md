@@ -16,7 +16,7 @@
 <a href="https://github.com/onlykape/Bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/onlykape/Bot?color=red&style=flat-square"></a>
 <a href="https://github.com/onlykape/Bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/onlykape/Bot?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/onlykape/Bot"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-<a href="https://github.com/onlykape/Bot/"><img title="Size" src="https://img.shields.io/github/repo-size/onlykape/Bot?style=flat-square&color=green"></a>
+<a href="https://github.com/onlykape/Bot/"><img title="Size" src="https://img.shields.io/github/repo-size/onlykape/Bot?color=grenn"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fonlykape%2FBot&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/zeeone-ofc/Alphabot-Md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
