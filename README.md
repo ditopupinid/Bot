@@ -32,7 +32,7 @@
 ---
 
 ## Information
-> Ciluk Bot adalah bot yang memakai base dari [Hisoka-Morou](https://github.com/DikaArdnt/Hisoka-Morou). Alphabot-Md is a bot whatsapp using a Baileys library.
+> Ciluk Bot adalah bot yang memakai base dari [Hisoka-Morou](https://github.com/DikaArdnt/Hisoka-Morou). Ciluk Bot is a bot whatsapp using a Baileys library.
 
 ## Support Language
 
