@@ -23,7 +23,7 @@
 <p align="center">
   <a href="https://github.com/onlykape/Bot#information">Info</a> •
   <a href="https://github.com/onlykape/Bot#instalasi">Installation</a> •
-  <a href="https://github.com/onlykape/Bot-Md#thanks-to">Thanks to</a> •
+  <a href="https://github.com/onlykape/Bot#thanks-to">Thanks to</a> •
 </p>
 </div>
 
