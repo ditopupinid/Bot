@@ -69,16 +69,16 @@ global.myweb2 = "https://discord.gg/" //bebas
 global.email = "https://nekopoi.care" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['6289688329976'] //premium user
-global.owner = ["6281233554132","6289688329976"] //ganti agar fitur owner bisa di gunakan
+global.premium = [''] //premium user
+global.owner = ["6281233554132",""] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "6281233554132" // nomor wa kalian
-global.ownernomerr = "+6289688329976" //nmr wa kalian
+global.ownernomerr = "+" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://s.id/1fRqr'
 global.packname = '© Ciluk ب' //sticker wm ubah
-global.author = 'Di Buat Oleh Bot KP' //sticker wm ganti nama kalian
+global.author = 'Di Buat Oleh Bot' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 ```
 
