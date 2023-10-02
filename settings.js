@@ -31,7 +31,7 @@ global.fakelink = "https://tracker.gg/valorant/profile/riot/CaptureTheFlag%23CTF
 global.grubbot = (`*INI KAK LINK GRUB NYA*\n\nhttps://tracker.gg/valorant/profile/riot/CaptureTheFlag%23CTF/overview`) // GANTI LINK GRUB BOT LU \\
 // - \\
 // FALSE OR TRUE \\
-global.autoTyping = true // BEBAS
+global.autoTyping = false // BEBAS
 global.welcome = false // KALO MAU AUTO WELCOME UBAH JADI true
 global.left = false // KALO MAU AUTO LEFT UBAH JADI true
 global.anticall = false // BEBAS
