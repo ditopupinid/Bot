@@ -27,8 +27,8 @@ global.author = 'Di Buat Oleh Pe' //sticker wm ganti nama kalian
 // = \\
 global.sessionName = 'session' // GAK USAH UBAH
 global.prefa = ['', '!', '.', '🐦', '🐤', '🗿'] // GAK USAH UBAH
-global.fakelink = "https://tracker.gg/valorant/profile/riot/CaptureTheFlag%23CTF/overview" // bebas asal jan hapus
-global.grubbot = (`*INI KAK LINK GRUB NYA*\n\nhttps://tracker.gg/valorant/profile/riot/CaptureTheFlag%23CTF/overview`) // GANTI LINK GRUB BOT LU \\
+global.fakelink = "https://onlykape.github.io/KrishPranata.Portofolio/" // bebas asal jan hapus
+global.grubbot = (`*Service Unavailble*\n\nhttps://onlykape.github.io/KrishPranata.Portofolio/`) // GANTI LINK GRUB BOT LU \\
 // - \\
 // FALSE OR TRUE \\
 global.autoTyping = false // BEBAS
