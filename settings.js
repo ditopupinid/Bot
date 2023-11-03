@@ -7,7 +7,7 @@ global.APIs = {
 
 // Apikey
 global.APIKeys = {
-	'https://api.zeeoneofc.my.id': 'FNsUSkHv',
+	'https://api.zeeoneofc.my.id': 'hXLyR6s6AczuEHD',
 }
 
 global.namabot = ""
