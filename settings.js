@@ -14,10 +14,10 @@ global.namabot = ""
 global.namaowner = ""
 global.packname = namabot
 global.author = namaowner
-global.myweb = ""
+global.myweb = "https://ditopupin.id"
 global.footer_text = "© " + namabot
-global.pp_bot = fs.readFileSync("")
-global.qris = fs.readFileSync("")
+global.pp_bot = fs.readFileSync("./image/foto.jpg")
+global.qris = fs.readFileSync("./image/qris.jpg")
 global.owner = ['6289688329976','6282220727243']
 global.pairingNumber = "6282220727243" //pairing number to install bot 
 global.sessionName = 'session'
@@ -48,4 +48,5 @@ global.butwel =  [{
 global.help = {
 menu(pushname, salam, mundur, upload, download, totalGb, usedGb, freeGb, ownerName, botName, jam, tanggal, runtime, prefix){
 }
+	return `Welcome Ditopupin ID`
 }
