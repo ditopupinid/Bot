@@ -47,6 +47,6 @@ global.butwel =  [{
 }]
 global.help = {
 menu(pushname, salam, mundur, upload, download, totalGb, usedGb, freeGb, ownerName, botName, jam, tanggal, runtime, prefix){
-}
 	return `Welcome Ditopupin ID`
+}
 }
