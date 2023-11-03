@@ -10,14 +10,14 @@ global.APIKeys = {
 	'https://api.zeeoneofc.my.id': 'FNsUSkHv',
 }
 
-global.namabot = "Ciluk Bot"
-global.namaowner = "0xff_404"
+global.namabot = ""
+global.namaowner = ""
 global.packname = namabot
 global.author = namaowner
-global.myweb = "https://www.tiktok.com/@gamehack3rz"
+global.myweb = ""
 global.footer_text = "© " + namabot
-global.pp_bot = fs.readFileSync("./image/foto.jpg")
-global.qris = fs.readFileSync("./image/qris.jpg")
+global.pp_bot = fs.readFileSync("")
+global.qris = fs.readFileSync("")
 global.owner = ['6289688329976','6282220727243']
 global.pairingNumber = "6282220727243" //pairing number to install bot 
 global.sessionName = 'session'
