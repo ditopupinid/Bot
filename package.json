@@ -10,13 +10,14 @@
   "author": "kape",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys" : "npm:@whiskeysockets/baileys@^6.5.0",
+    "@adiwajshing/baileys": "npm:@whiskeysockets/baileys@^6.5.0",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@adiwajshing/keyed-db": "^0.2.4",
     "awesome-phonenumber": "^2.64.0",
     "chalk": "^4.1.2",
     "child_process": "^1.0.2",
     "crypto": "^1.0.1",
+    "express": "^4.17.1",
     "fetch": "^1.1.0",
     "file-type": "^16.5.3",
     "fluent-ffmpeg": "^2.1.2",
@@ -37,5 +38,9 @@
     "readline": "latest",
     "similarity": "^1.2.1",
     "util": "^0.12.4"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {}
 }
