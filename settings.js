@@ -49,3 +49,4 @@ global.help = {
 menu(pushname, salam, mundur, upload, download, totalGb, usedGb, freeGb, ownerName, botName, jam, tanggal, runtime, prefix){
   return `${salam.slice(0,1).toUpperCase() + salam.slice(1)} ${pushname}
 
+}}
